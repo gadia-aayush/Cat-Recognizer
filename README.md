@@ -17,8 +17,7 @@
 - Just clone the entire repo and run the Jupyter Notebook.
 
 #### Output-
-- Input Image :: 
-  - ![input_image](images/my_image-1.jpeg)
 - Output ::
   - ![sample_output](sample_output.png)
+  - ![sample_output2](sample_output2.png)  
 - [Rest the output can be seen in Jupyter Notebook](https://github.com/gadia-aayush/Cat-Recognizer/blob/master/deep-neural-network-application%20%5Bcat%20recognizer%5D.ipynb).
